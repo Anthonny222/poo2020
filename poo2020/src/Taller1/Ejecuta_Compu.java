@@ -1,6 +1,6 @@
 package Taller1;
 
-public class Ejecuta_Compu {
+public class Ejecuta_compu {
     public static void main(String[] args) {
         computadora computadora = new computadora();
         computadora.actualizar_gou("RTX 2080ti");
