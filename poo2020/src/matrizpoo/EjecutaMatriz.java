@@ -1,5 +1,4 @@
 package matrizpoo;
-
 import java.util.Scanner;
 
 public class EjecutaMatriz {
@@ -31,5 +30,6 @@ public class EjecutaMatriz {
             }
         }
         System.out.println(cadena);
+
     }
 }
