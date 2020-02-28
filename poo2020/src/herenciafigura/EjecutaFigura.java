@@ -57,20 +57,8 @@ public class EjecutaFigura {
                     System.out.println(circulo.getAreaCircu());
                 case 5:
                     bandera=false;
-
-
-
-
             }
             System.out.println("Fin");
         }
-
-
-
-
-
-
     }
-
-
 }
